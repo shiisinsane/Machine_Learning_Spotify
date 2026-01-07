@@ -23,3 +23,8 @@ data_code/
 4. 模型训练与预测：同一目录下，运行`Modelling_final.py`
 5. 鲁棒性分析：同一目录下，运行`poisoning.py`
 6. 结果可视化：同一目录下，运行`result.py`
+
+
+## 结课小论文
+见
+![final essay](https://github.com/shiisinsane/Machine_Learning_Spotify/blob/45d35778837d2dada5233eac244813b5fc424757/final_essay.pdf)
